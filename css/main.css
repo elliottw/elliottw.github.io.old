@@ -9,18 +9,65 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
+  font-family: 'premiera book', georgia, serif;
+  font-size: 18px;
+  line-height: 1.7;
   font-weight: 300;
   background-color: #fdfdfd;
+  word-spacing: 0.15em;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 500; }
+strong {
+	font-family: 'premiera bold', georgia, serif;
+	font-weight: bold;
+}
+blockquote {
+  border-left: 4px solid #e8e8e8;
+  padding-left: 20px;
+  font-size: 18px;
+  opacity: .6;
+  letter-spacing: -1px;
+  font-style: italic;
+  margin: 30px 0;
+}  
 
-a         { color: #2a7ae2; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+/*
+a         { color: #00ce83; text-decoration: none; }
+a:hover   { color: #00ce83; text-decoration: underline; }
+a:visited { color: #00ce83; }
+*/
+a, a:visited, a:link, a:active, a:hover {
+
+	color: #333333;
+	text-decoration: underline;
+
+}
+
+a:visited {
+	color:#666;
+}
+
+html>body a, html>body a:visited, html>body a:link, html>body a:active, html>body a:hover {
+	/* need to hide borders on links from ie6 due to text-jog bug */
+
+	text-decoration: none;
+	border-bottom: 1px solid #f2ecda;
+
+}
+
+
+
+html>body a:active, html>body a:hover {
+	border-bottom: 1px solid #999;
+}
+
+.footnotes {
+  font-size:.75em;
+  width: 700px;
+  color: #222222;
+}
+
 
 /* Utility */
 
@@ -154,6 +201,8 @@ a:visited { color: #205caa; }
   font-size: 24px;
   letter-spacing: -1px;
   line-height: 1;
+  word-spacing: -0.025em;
+  text-decoration: none;
 }
 
 .posts .post-date {
