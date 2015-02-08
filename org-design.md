@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: org design
-___
+---
 
 # Using Peer Pressure for Good
 
@@ -43,4 +43,3 @@ Since there seemed to be a strong culture that pushed aside attempts at structur
 
 This concept of creating openess lead to a visual interface that showed projected cost of each project, where the project should be (in this case, around 50k) and where the project currently was (in this case, 60k) in a place that couldn't be avoided... the kitchen. Everyone went into the kitchen multiple times a day. It was a place for informal conversation and socializing. The concept was that if everyone in the organization new that Tommy (for example) had a project that was 10k over-spent, Tommy would work hard to fix that, and that the organization would do a better job of self regulation through instant feedback. I considered the project a success in a single moment. After three weeks of HTTP Requests and Perl code, I walked over to the CFO's office and showed her a chart of every single project currently going on. She asked one question "Why is that one red?", I answered, she set a meeting.
 
-– Elliott
