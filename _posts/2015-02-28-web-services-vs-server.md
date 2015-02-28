@@ -17,9 +17,9 @@ My list of services most likely looks pretty standard:
 
     Cost  Services          Use               Server Replacement
     ----  --------          ---               ------------------
-    5     Digital Ocean     VPS               I now ssh into my iMac (it has a static IP and sits at my coworking space)
-    5     BackBlaze         offsite backup    BTSync to mirror home directory between iMac(at work) and macbook pro(home)
-    1.7   iTunes Match      music             Plex which streams directly from my iMac
+    5     Digital Ocean     VPS               I now ssh into my iMac
+    5     BackBlaze         offsite backup    BTSync to mirror
+    1.7   iTunes Match      music             Plex from iMac
 
 
 I spent 800 dollars for a 2011 iMac. This machine is actually slightly faster as per [geekbench][geekbench] than my 2013 13" macbook pro. So it will take 3 years to pay off the iMac from savings in services. But, I ended up selling my 27 inch monitor back to my coworking space for 300 dollars, which means I will be able to pay off the iMac in 22 months instead. 
