@@ -17,10 +17,8 @@ My list of services most likely looks pretty standard:
 
     Cost  Services          Use               Server Replacement
     ----  --------          ---               ------------------
-    5     Digital Ocean     VPS               I now ssh into my iMac 
-                                              (it has a static IP and sits at my coworking space)
-    5     BackBlaze         offsite backup    BTSync to mirror home directory 
-                                              between iMac(at work) and macbook pro(home)
+    5     Digital Ocean     VPS               I now ssh into my iMac (it has a static IP and sits at my coworking space)
+    5     BackBlaze         offsite backup    BTSync to mirror home directory between iMac(at work) and macbook pro(home)
     1.7   iTunes Match      music             Plex which streams directly from my iMac
 
 
