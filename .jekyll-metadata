@@ -181,7 +181,7 @@
   - "/Users/elliott/code/elliottw.github.io/_includes/sidebar.html"
   - "/Users/elliott/code/elliottw.github.io/_layouts/default.html"
 "/Users/elliott/code/elliottw.github.io/atom.xml":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/index.html":
   mtime: 2015-02-07 11:49:21.000000000 -05:00
@@ -197,40 +197,40 @@
   - "/Users/elliott/code/elliottw.github.io/_includes/sidebar.html"
   - "/Users/elliott/code/elliottw.github.io/_layouts/default.html"
 "/Users/elliott/code/elliottw.github.io/CNAME":
-  mtime: 2015-02-07 13:20:06.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/LICENSE.md":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/README.md":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/public/apple-touch-icon-144-precomposed.png":
   mtime: 2015-02-07 11:49:21.000000000 -05:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/public/css/hyde.css":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/public/css/poole.css":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/public/css/syntax.css":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/public/favicon.ico":
   mtime: 2015-02-07 11:49:21.000000000 -05:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/_layouts/post.html":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:14:54.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/_includes/head.html":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/_layouts/page.html":
-  mtime: 2015-02-07 11:49:21.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/_includes/sidebar.html":
-  mtime: 2015-02-08 17:29:25.000000000 -05:00
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
   deps: []
 "/Users/elliott/code/elliottw.github.io/about copy.md":
   mtime: 2015-02-07 12:45:38.000000000 -05:00
@@ -255,3 +255,22 @@
   - "/Users/elliott/code/elliottw.github.io/_includes/head.html"
   - "/Users/elliott/code/elliottw.github.io/_includes/sidebar.html"
   - "/Users/elliott/code/elliottw.github.io/_layouts/default.html"
+"/Users/elliott/code/elliottw.github.io/_posts/2015-02-28-web-services-vs-server.md":
+  mtime: 2015-05-23 17:08:55.000000000 -04:00
+  deps:
+  - "/Users/elliott/code/elliottw.github.io/_layouts/post.html"
+  - "/Users/elliott/code/elliottw.github.io/_includes/head.html"
+  - "/Users/elliott/code/elliottw.github.io/_includes/sidebar.html"
+  - "/Users/elliott/code/elliottw.github.io/_layouts/default.html"
+"/Users/elliott/code/elliottw.github.io/css/mobile.css":
+  mtime: 2015-05-23 17:14:54.000000000 -04:00
+  deps: []
+"/Users/elliott/code/elliottw.github.io/css/screen.css":
+  mtime: 2015-05-23 17:14:54.000000000 -04:00
+  deps: []
+"/Users/elliott/code/elliottw.github.io/css/syntax.css":
+  mtime: 2015-05-23 17:14:54.000000000 -04:00
+  deps: []
+"/Users/elliott/code/elliottw.github.io/css/tablet.css":
+  mtime: 2015-05-23 17:14:54.000000000 -04:00
+  deps: []
