@@ -274,3 +274,8 @@
 "/Users/elliott/code/elliottw.github.io/css/tablet.css":
   mtime: 2015-05-23 17:14:54.000000000 -04:00
   deps: []
+"/Users/elliott/code/elliottw.github.io/_posts/2015-05-23-community-space-key-policy.md":
+  mtime: 2015-05-23 17:30:05.000000000 -04:00
+  deps:
+  - "/Users/elliott/code/elliottw.github.io/_layouts/post.html"
+  - "/Users/elliott/code/elliottw.github.io/_layouts/default.html"
