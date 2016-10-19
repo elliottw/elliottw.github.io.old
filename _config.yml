@@ -9,7 +9,7 @@ rdiscount:
 # User Options
 name: elliott.io
 baseurl:   # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
-description: 'Everything Elliott.'
+description: 'precariat'
 email: 
 twitter: elliottwilliams
 icon_url: 
