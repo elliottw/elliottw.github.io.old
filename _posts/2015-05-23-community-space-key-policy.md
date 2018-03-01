@@ -6,7 +6,7 @@ category:
 tags: [community]
 ---
 
-### Problem: More Access = More Problems
+**Problem: More Access = More Problems**
 
 As my [coworking space][1] gets larger, the space has been left open more often than I'd like. Some people suggested an alarm system or keyless entry system, some others suggested two membership tiers, a cheaper level without a key to the space, and a more expensive level with a key to the space--this would reduce the number of people with keys, hopefully increasing security. Aside from doors being left unlocked, there has been a growing concern of too many unknown/unvetted people around. The sense of security might be somehow related to a ratio of known versus unknown people in a space.
 
