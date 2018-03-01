@@ -1,7 +1,15 @@
 ---
-layout: layout
+layout: default
 ---
-<body class="page">
-  <div class="container" id="main" role="main">
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h5 class="post-description">{{ page.description }}</h5>
+  </header>
+
+  <article class="post-content">
     {{ content }}
-  </div>
+  </article>
+
+</div>
