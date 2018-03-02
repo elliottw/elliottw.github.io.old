@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Project
-description: Adding Functionality to Dumb Phones
-img: /img/1.jpg
+title: A Printed Phone Book for Doctors in Africa
+description: Research, Print & Systems
+img: /img/book-in-hand.jpg
 ---
-
-**Adding Functionality to Dumb Phones in Africa**
 
 Africa Aid had an interesting service running in Ghana and Liberia. They offered free cell phone calls for all doctors in these countries. I was a bit confused as to why a non-profit would do this, until they explained the context. In a lot of West African countries, doctors are hundreds of miles away from each other. In this country, if a doctor encounters a problem, she can just walk down the hall and ask a co-worker to take a look at the patient. In Ghana, this isn't the case. Quite often a doctor is just a General Practitioner and he can't easily ask for a second opinion. So what does he do? He picks up his cell phone and makes a call. This behavior creates a bit of a tension between economic forces and medical service. The truth of the matter is that phone calls are expensive and a lot of times doctors have limited paychecks and don't want to spend all the money they do make... doing their job.
 
